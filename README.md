@@ -1,4 +1,9 @@
-### Привет! Я начинающий специалист по информационной безопасности
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Wazuh-002B49?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh">
+  <img src="https://img.shields.io/badge/Security-Blue%20Teaming-success?style=flat-square" alt="Blue Team">
+</p>### Привет! Я начинающий специалист по информационной безопасности
 
 Интересуюсь защитой систем, настройкой мониторинга и разбором инцидентов. Сейчас активно изучаю направление Blue Teaming (защита и мониторинг) и хочу развиваться как аналитик SOC.
 
